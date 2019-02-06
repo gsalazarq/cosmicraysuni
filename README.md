@@ -3,6 +3,9 @@ README
 ### TXT to ROOT 
 
 Tener cuidado con el nombre del archivo txt y la correcta definicin de las variables. 
+Archivos: 
+- write_tree.C
+- 0073.pri (file con los las ntuplas)
 
 ## Scripts para automatizar la simulacin de rayos cósmicos. 
 cd ~/Programs/arti/sims/
