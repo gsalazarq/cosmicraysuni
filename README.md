@@ -1,6 +1,10 @@
 README
 
-Scripts para automatizar la simulacin de rayos cósmicos. 
+### TXT to ROOT 
+
+Tener cuidado con el nombre del archivo txt y la correcta definicin de las variables. 
+
+## Scripts para automatizar la simulacin de rayos cósmicos. 
 cd ~/Programs/arti/sims/
 do_sims.sh -w ~/Programs/lago-corsika/run/ -p lima04 -t 3600 -y -u gerald -s lima -k 5000
 
